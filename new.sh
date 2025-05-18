@@ -19,5 +19,3 @@ IP=$(curl -s http://169.254.169.254/latest/meta-data/public-ipv4)
 
 # Show IP address
 echo "Web server is running. Access it at: http://$IP/"
-# This is a comment
-# This is done my main branch
